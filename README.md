@@ -1,6 +1,7 @@
 # SpringBoot整合dubbo示例
  介入zookeeper
  完整框架  拿来即可用
+ 简化了pom文件的引用
 ## 一、定义API（API模块）
 ### 1. 定义api
 ```java
